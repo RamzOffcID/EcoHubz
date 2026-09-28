@@ -232,7 +232,7 @@ generate_css() {
 /* ==========================================================================
    ECOHUBZ THEME v1.0.0
    Creator: @RamzOffcID (ʀᴀᴍᴢ) | Info: @ecohubzidinfo
-   Support: https://ecohubzoffc.my.id
+   Support: https://powershot.my.id
    Sistem & fitur default Pterodactyl TIDAK diubah.
    ========================================================================== */
 
@@ -501,7 +501,7 @@ generate_notif_js() {
    Muncul otomatis saat user masuk panel
    Slide smooth dari atas, auto-close dengan animasi smooth
    Creator: @RamzOffcID (ʀᴀᴍᴢ) | Info: @ecohubzidinfo
-   Support: https://ecohubzoffc.my.id
+   Support: https://powershot.my.id
    ========================================================================== */
 
 (function() {
